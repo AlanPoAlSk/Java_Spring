@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+
+body{
+	font-size: larger;
+}
+
+table {
+	background-color : whitesmoke;
+	
+}
+
+h1 {
+	color: pink;
+}
+
+th, td {
+	/* border: 2px solid pink; */
+	text-align: left;
+    padding: 8px;
+}
+
+.highlight {
+	color: orange
+}
+
+table {
+	height: 200px;
+	width: 400px;
+	border-collapse: collapse;
+	border: 20px solid pink;
+	
+}
+
+tr {
+    border-bottom: 2px solid pink;
+}
